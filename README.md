@@ -54,11 +54,11 @@ The service, as it is scoped and as clients have described receiving it:
 
 ```mermaid
 flowchart LR
-  A[Incoming mail] --> B{Filter rules}
-  B -- recurring sender --> C[Labelled automatically]
-  B -- live client work --> D[Stays visible in Inbox]
-  E[Historic backlog] --> F[Sorted into scheme]
-  C --> G[Label + folder structure]
+  A["Incoming mail"] --> B{"Filter rules"}
+  B -- recurring sender --> C["Labelled automatically"]
+  B -- live client work --> D["Stays visible in Inbox"]
+  E["Historic backlog"] --> F["Sorted into scheme"]
+  C --> G["Label + folder structure"]
   F --> G
 ```
 
