@@ -1,4 +1,8 @@
+<img src="https://raw.githubusercontent.com/skmalikllc/automation-portfolio/main/assets/cover-mailbox.png" alt="cover" width="100%">
+
 # Business Mailbox Organization — client case studies
+
+`SANITIZED CLIENT CASE STUDIES`
 
 **Project type:** Sanitized client case studies
 **Evidence sources:** completed Fiverr orders, public client reviews, historical account audit
@@ -45,6 +49,18 @@ The service, as it is scoped and as clients have described receiving it:
   particular business works.
 - **Filters** so that incoming mail arrives already labelled and the inbox does
   not simply refill.
+
+## Architecture
+
+```mermaid
+flowchart LR
+  A[Incoming mail] --> B{Filter rules}
+  B -- recurring sender --> C[Labelled automatically]
+  B -- live client work --> D[Stays visible in Inbox]
+  E[Historic backlog] --> F[Sorted into scheme]
+  C --> G[Label + folder structure]
+  F --> G
+```
 
 ## Engagements
 
