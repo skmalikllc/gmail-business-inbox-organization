@@ -1,7 +1,8 @@
-# Gmail Business Inbox Organization — client case studies
+# Business Mailbox Organization — client case studies
 
-**Project type:** Sanitized client case study (engagement record)
-**Platform:** Fiverr · **Status:** completed, reviewed work
+**Project type:** Sanitized client case studies
+**Evidence sources:** completed Fiverr orders, public client reviews, historical account audit
+**Status:** delivered
 
 A record of repeat client work reorganising overloaded business Gmail accounts
 into inboxes their owners can actually run a week from.
@@ -47,6 +48,8 @@ The service, as it is scoped and as clients have described receiving it:
 
 ## Engagements
 
+### Gmail
+
 | When | Client | Turnaround | Notes |
 |---|---|---|---|
 | Aug 2026 | United Kingdom | 1 day | Full inbox reorganisation with labels, filters and folders |
@@ -55,7 +58,35 @@ The service, as it is scoped and as clients have described receiving it:
 | Sep 2026 | United States | 2 days | Repeat client, several projects |
 
 Two of these four became ongoing working relationships, which is the outcome I
-care about most — the scheme held up after handover.
+care about most — the scheme held up after handover. In the account history this
+service is the clearest repeat-business line of anything I sell: the large
+majority of email-work earnings come from returning buyers rather than new ones.
+
+### Microsoft 365 — services business
+
+The same problem in Outlook rather than Gmail.
+
+The constraint that shaped the whole job: **new and important mail had to stay
+visible in the main Inbox.** No rule was permitted to move live operational mail
+out of it. That rules out the usual "filter everything into folders" approach —
+the structure had to sit behind the inbox, not in front of it.
+
+Phase 1, delivered and signed off: the client's automatic inbox-splitting feature
+turned off so nothing was being hidden from them, and an agreed folder structure
+created and populated.
+
+The engagement runs in phases with explicit client sign-off before each one. On a
+mailbox this size, an unapproved bulk action is not something you can undo.
+
+**Tools.** Microsoft 365 · Outlook · mail rules and folder structure
+
+### A related job: bulk message verification
+
+A separate engagement on the same kind of account: verifying a batch of **250
+specific messages** against a client's mailbox, recording the result of each one
+in a spreadsheet, and forwarding the verified ones. Not organisation work as
+such, but the same discipline — a written record of what was checked, so the
+client can see the pass was complete rather than being asked to trust it.
 
 ## Result, in the clients' words
 
@@ -75,15 +106,15 @@ Source: [fiverr.com/skmalik166](https://www.fiverr.com/skmalik166) — 4.9 ★ f
 
 ## Tools
 
-Gmail (labels, filters, search operators, bulk actions), Google Workspace.
-No third-party mail tools, no scripts run against client mailboxes unless the
-client asks for one and approves it.
+Gmail (labels, filters, search operators, bulk actions) · Google Workspace ·
+Microsoft 365 / Outlook. No third-party mail tools, and no scripts run against a
+client mailbox unless the client asks for one and approves it.
 
 ## Who this is useful for
 
-Founders, consultants and small teams whose business runs through one Gmail
-account that has stopped being navigable — and who need it fixed without losing
-anything.
+Founders, consultants and small teams whose business runs through one mailbox
+that has stopped being navigable — and who need it fixed without losing anything.
+Services businesses in particular, where the mailbox *is* the job queue.
 
 ## Privacy
 
