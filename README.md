@@ -19,6 +19,37 @@ into inboxes their owners can actually run a week from.
 
 ---
 
+## Verified delivery volume
+
+`AUDITED 26 SEPTEMBER 2026`
+
+Counts below are read from the platform's own completed-order list, not from memory.
+
+| | |
+|---|---|
+| Completed orders in this service line | **27** |
+| Of those, carrying a buyer rating | **14** |
+| Ratings observed | all 5 stars |
+| Largest single engagement observed | $850 |
+| Reviewed window | February 2025 – September 2026 |
+
+**Repeat business.** Within the reviewed window, more than one buyer placed
+several separate orders against this service, months apart. That is the
+strongest signal in the whole record: a mailbox scheme that a client comes back
+to extend is one that survived contact with their actual week.
+
+**Scope of the audit.** 103 of 221 completed orders were individually reviewed
+before the platform presented a human-verification step and the audit stopped
+there. The 27 above are counted from those 103. Older orders in this service line
+exist among the remaining 118 and are deliberately not estimated.
+
+**What the count does and does not say.** The 27 are Gmail label, filter and
+folder engagements delivered under one service line. The Microsoft 365 work
+described further down is a separate engagement and is not included in that
+number.
+
+---
+
 ## Problem
 
 A business mailbox that has been running for years without a system ends up in
@@ -65,6 +96,8 @@ flowchart LR
 ## Engagements
 
 ### Gmail
+
+Four representative engagements from the 27 counted above:
 
 | When | Client | Turnaround | Notes |
 |---|---|---|---|
@@ -141,4 +174,5 @@ publicly on Fiverr; usernames are omitted.
 ## Related work
 
 - [contact-dedupe-mcp](https://github.com/skmalikllc/contact-dedupe-mcp) — cleaning the contact list behind the mailbox
+- [fiverr-project-archive](https://github.com/skmalikllc/fiverr-project-archive) — full engagement accounting
 - [automation-portfolio](https://github.com/skmalikllc/automation-portfolio) — index of all projects
